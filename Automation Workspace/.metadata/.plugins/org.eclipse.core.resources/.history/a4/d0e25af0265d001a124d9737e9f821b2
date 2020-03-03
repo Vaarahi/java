@@ -1,0 +1,12 @@
+package vaa;
+
+public class method {
+static void method()
+{
+	System.out.println("22");
+}
+	public static void main(String[] args) {
+	method();
+	}
+
+}

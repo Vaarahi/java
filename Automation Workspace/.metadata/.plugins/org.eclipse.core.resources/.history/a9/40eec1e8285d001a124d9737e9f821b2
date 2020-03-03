@@ -1,0 +1,17 @@
+package vaa;
+
+public class method {
+static void myMethod(String fname)
+{
+	System.out.println(fname + "1");
+}
+	public static void main(String[] args) {
+		myMethod("jurassic park");
+		myMethod("kgf");
+		myMethod("ironman");
+		myMethod("avengers");
+	myMethod("thor");
+	myMethod("potc");
+	}
+
+}

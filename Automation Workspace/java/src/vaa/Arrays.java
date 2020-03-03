@@ -1,0 +1,12 @@
+package vaa;
+
+public class Arrays {
+
+	public static void main(String[] args)
+	{
+		String[] cars = {"a","b","c","d"};
+		cars[2]="f";
+		System.out.println(cars[2]);
+		System.out.println(cars.length);
+	}
+}
